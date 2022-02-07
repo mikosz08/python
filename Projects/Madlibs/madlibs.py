@@ -1,6 +1,3 @@
-
-from modules import common
-
 def print_player_madlib():
     words = list()
     words.append(input("ADJECTIVE:"))
